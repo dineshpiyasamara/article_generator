@@ -1,0 +1,12 @@
+torch
+transformers
+numpy
+langchain
+langchain_community
+sentence_transformers
+faiss-cpu
+pypdf
+translate
+python-dotenv
+flask
+langchain_openai
