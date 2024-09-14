@@ -1,5 +1,3 @@
-torch
-transformers
 numpy
 langchain
 langchain_community
